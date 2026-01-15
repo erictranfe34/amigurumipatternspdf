@@ -538,5 +538,96 @@ const products = [
         originalPrice: 16.99,
         salePrice: 4.99,
         purchaseLink: "https://maken8n.gumroad.com/l/vintage-knitting-pattern?wanted=true"
-    }
+    },
+    {
+  id: 72,
+  title: "3 Cats and Flowers",
+  image: "https://public-files.gumroad.com/ekc30dq6kstg786fc42brigmk3ym",
+  description: "3 cats and flowers amigurumi crochet pattern. Cute decorative design provided as a PDF download.",
+  originalPrice: 16.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/3-cats-and-flowers?wanted=true"
+},
+{
+  id: 73,
+  title: "11 Dolls Pattern Bundle",
+  image: "https://public-files.gumroad.com/mydb7u1ti1xn2naelf4baedo99t2",
+  description: "11 dolls amigurumi crochet pattern bundle. Great value PDF download for makers and sellers.",
+  originalPrice: 24.99,
+  salePrice: 6.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/11-dolls-pattern-bundle?wanted=true"
+},
+{
+  id: 74,
+  title: "Alfie the Duckling",
+  image: "https://public-files.gumroad.com/n49cvi87quo4l5sidnk3m4hb3azu",
+  description: "Alfie the Duckling amigurumi crochet pattern. Beginner-friendly PDF instructions.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/alfie-the-duckling?wanted=true"
+},
+{
+  id: 75,
+  title: "Ava the Butterfly",
+  image: "https://public-files.gumroad.com/3o7j4fkcz1pch8098b7ygkku7pd5",
+  description: "Ava the Butterfly amigurumi crochet pattern. Elegant butterfly design in PDF format.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/ava-the-butterfly?wanted=true"
+},
+{
+  id: 76,
+  title: "Axolotl Strawberry",
+  image: "https://public-files.gumroad.com/ksghsfnehm0l7voji9wqjdzy2111",
+  description: "Axolotl strawberry-themed amigurumi crochet pattern. Cute kawaii PDF download.",
+  originalPrice: 15.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/axolotl-strawberry-crochet?wanted=true"
+},
+{
+  id: 77,
+  title: "Baby Animals",
+  image: "https://public-files.gumroad.com/ug5sb0fowbxqp3s1gnderl2p52hm",
+  description: "Baby animals amigurumi crochet pattern collection. Multiple cute designs in one PDF.",
+  originalPrice: 19.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/baby-animals?wanted=true"
+},
+{
+  id: 78,
+  title: "Baby Yoda The Child",
+  image: "https://public-files.gumroad.com/8boji5mog5ls4k5r0amnz8j1tz25",
+  description: "Baby Yoda (The Child) amigurumi crochet pattern. Fan-favorite PDF download.",
+  originalPrice: 17.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/baby-yoda-the-child?wanted=true"
+},
+{
+  id: 79,
+  title: "Baby Chameleon",
+  image: "https://public-files.gumroad.com/ly0ug9iueq6ye70ls71cheq0sz68",
+  description: "Baby chameleon amigurumi crochet pattern. Cute reptile design with PDF instructions.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/baby-chameleon?wanted=true"
+},
+{
+  id: 80,
+  title: "Baiana Doll",
+  image: "https://public-files.gumroad.com/z795cjpxpc32umwkpt1kwcqo63wm",
+  description: "Baiana doll amigurumi crochet pattern inspired by traditional style. PDF download.",
+  originalPrice: 16.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/baiana-doll?wanted=true"
+},
+{
+  id: 81,
+  title: "Ball Joined Doll",
+  image: "https://public-files.gumroad.com/rbtqlxz8l6gn94bjl63hphawinfr",
+  description: "Ball joined doll amigurumi crochet pattern with articulated look. PDF format.",
+  originalPrice: 17.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/ball-joined-doll?wanted=true"
+}
 ];
+
