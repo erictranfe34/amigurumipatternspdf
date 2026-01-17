@@ -628,6 +628,97 @@ const products = [
   originalPrice: 17.99,
   salePrice: 4.99,
   purchaseLink: "https://maken8n.gumroad.com/l/ball-joined-doll?wanted=true"
+},
+{
+  id: 82,
+  title: "Batman",
+  image: "https://public-files.gumroad.com/k82drbxiqu090tewcl9bzhiczrsk",
+  description: "Batman amigurumi crochet pattern. Superhero-inspired PDF download.",
+  originalPrice: 18.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/batman-amigurumi?wanted=true"
+},
+{
+  id: 83,
+  title: "Bernard the Dinosaur",
+  image: "https://public-files.gumroad.com/a0jb9svfdvl1nj50jfnr6f8hmz1o",
+  description: "Bernard the Dinosaur amigurumi crochet pattern. Cute and kid-friendly design.",
+  originalPrice: 15.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/bernard-the-dinosaur?wanted=true"
+},
+{
+  id: 84,
+  title: "Brown Owl",
+  image: "https://public-files.gumroad.com/njc93phcmucp4nt6f536ak5rdq7d",
+  description: "Brown owl amigurumi crochet pattern. Classic and cozy PDF design.",
+  originalPrice: 13.99,
+  salePrice: 3.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/brown-owl?wanted=true"
+},
+{
+  id: 85,
+  title: "Butterfly",
+  image: "https://public-files.gumroad.com/a5gqumvr5yiil96dvrm7b70vuek9",
+  description: "Butterfly amigurumi crochet pattern. Elegant and colorful PDF.",
+  originalPrice: 13.99,
+  salePrice: 3.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/butterfly-amigurumi?wanted=true"
+},
+{
+  id: 86,
+  title: "Butterfly Slim",
+  image: "https://public-files.gumroad.com/278sqnkif4jjrq062jl7zqehc5el",
+  description: "Slim butterfly amigurumi crochet pattern with a modern look.",
+  originalPrice: 13.99,
+  salePrice: 3.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/butterfly-slim?wanted=true"
+},
+{
+  id: 87,
+  title: "Charmander Pokemon",
+  image: "https://public-files.gumroad.com/o83uty2gxie7b7rw4gx5dizpya7j",
+  description: "Charmander Pokémon amigurumi crochet pattern. Fan-favorite character.",
+  originalPrice: 18.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/charmander-pokemon?wanted=true"
+},
+{
+  id: 88,
+  title: "Cockatiel",
+  image: "https://public-files.gumroad.com/apynsv3dc1j108avj8q09t0kvvuh",
+  description: "Cockatiel bird amigurumi crochet pattern. Realistic and adorable design.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/cockatiel?wanted=true"
+},
+{
+  id: 89,
+  title: "Cozy Patchwork Pumpkin for Halloween",
+  image: "https://public-files.gumroad.com/cmg97lmvuo9k3mm0ihyb2j8chiyj",
+  description: "Cozy patchwork pumpkin amigurumi crochet pattern. Perfect for Halloween decor.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/patchwork-pumpkin?wanted=true"
+},
+{
+  id: 90,
+  title: "Cute Plush Valentine Heart",
+  image: "https://public-files.gumroad.com/8tpur90hz3l8llxshztwl119jguu",
+  description: "Cute plush Valentine heart amigurumi crochet pattern. Perfect gift idea.",
+  originalPrice: 12.99,
+  salePrice: 3.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/cute-valentine-heart?wanted=true"
+},
+{
+  id: 91,
+  title: "Evil Minion",
+  image: "https://public-files.gumroad.com/y68im1uoi8x1qx61vppdakm02akg",
+  description: "Evil minion amigurumi crochet pattern. Fun villain-style character.",
+  originalPrice: 17.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/evil-minion?wanted=true"
 }
 ];
+
 
