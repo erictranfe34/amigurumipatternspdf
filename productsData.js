@@ -718,7 +718,98 @@ const products = [
   originalPrice: 17.99,
   salePrice: 5.99,
   purchaseLink: "https://maken8n.gumroad.com/l/evil-minion?wanted=true"
+},
+{
+  id: 92,
+  title: "Fun Crochet Bundles",
+  image: "https://public-files.gumroad.com/yyjed1a1s3k97cijiayu3eg8bxx3",
+  description: "Fun crochet bundles amigurumi pattern collection. Great value PDF download.",
+  originalPrice: 24.99,
+  salePrice: 6.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/fun-crochet-bundles?wanted=true"
+},
+{
+  id: 93,
+  title: "Halloween Puppy",
+  image: "https://public-files.gumroad.com/354oqp61clhel0e0jkt7unrdna1f",
+  description: "Cute Halloween puppy amigurumi crochet pattern. Perfect seasonal project.",
+  originalPrice: 15.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/halloween-puppy?wanted=true"
+},
+{
+  id: 94,
+  title: "Hoot Hoot Owl",
+  image: "https://public-files.gumroad.com/vmomm3e1jcdn08gydz3x53yxccj1",
+  description: "Hoot Hoot owl amigurumi crochet pattern. Fun and expressive design.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/hoot-hoot-owl?wanted=true"
+},
+{
+  id: 95,
+  title: "Jack Skellington Halloween",
+  image: "https://public-files.gumroad.com/acv7ipotc76j0yp2yrq2lppyp8nx",
+  description: "Jack Skellington Halloween amigurumi crochet pattern. Iconic spooky character.",
+  originalPrice: 18.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/jack-skellington?wanted=true"
+},
+{
+  id: 96,
+  title: "Jellyfish Babies",
+  image: "https://public-files.gumroad.com/5sttjju1t1m31z4und7wuv8zv6bl",
+  description: "Adorable jellyfish babies amigurumi crochet pattern. Soft and cute design.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/jellyfish-babies?wanted=true"
+},
+{
+  id: 97,
+  title: "Jerry Mouse",
+  image: "https://public-files.gumroad.com/5c6v7qxrtc9xij6lhysjdj93oy7z",
+  description: "Jerry Mouse amigurumi crochet pattern. Classic cartoon-inspired design.",
+  originalPrice: 17.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/jerry-mouse?wanted=true"
+},
+{
+  id: 98,
+  title: "Jokser",
+  image: "https://public-files.gumroad.com/2cvdwsi30u8w4lox0yqxq10y2lfd",
+  description: "Jokser amigurumi crochet pattern. Unique character design in PDF format.",
+  originalPrice: 17.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/jokser?wanted=true"
+},
+{
+  id: 99,
+  title: "Little Mummy Doll",
+  image: "https://public-files.gumroad.com/ix49zxr3ikl4x1ccfd69s1to3xip",
+  description: "Little mummy doll amigurumi crochet pattern. Perfect for Halloween gifts.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/little-mummy-doll?wanted=true"
+},
+{
+  id: 100,
+  title: "Little Blue Octopus",
+  image: "https://public-files.gumroad.com/i4dn3ubyix9siuqp6vw8za842wu6",
+  description: "Little blue octopus amigurumi crochet pattern. Cute ocean-themed design.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/little-blue-octopus?wanted=true"
+},
+{
+  id: 101,
+  title: "Mario Super Mario Bros",
+  image: "https://public-files.gumroad.com/5gwpkcr29a4zzpvpx16qgkanpgch",
+  description: "Mario Super Mario Bros amigurumi crochet pattern. Iconic game character.",
+  originalPrice: 18.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/mario-super-mario?wanted=true"
 }
 ];
+
 
 
