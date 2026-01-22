@@ -808,8 +808,205 @@ const products = [
   originalPrice: 18.99,
   salePrice: 5.99,
   purchaseLink: "https://maken8n.gumroad.com/l/mario-super-mario?wanted=true"
+},
+{
+  id: 102,
+  title: "Mel the Snowman",
+  image: "piiiiiccc",
+  description: "Mel the Snowman amigurumi crochet pattern. Cozy winter-themed PDF design.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/mel-the-snowman?wanted=true"
+},
+{
+  id: 103,
+  title: "Mini Turtle",
+  image: "piiiiiccc",
+  description: "Mini turtle amigurumi crochet pattern. Small, cute, and beginner-friendly.",
+  originalPrice: 12.99,
+  salePrice: 3.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/mini-turtle?wanted=true"
+},
+{
+  id: 104,
+  title: "Minion Bob and Bear Tim",
+  image: "piiiiiccc",
+  description: "Minion Bob and Bear Tim amigurumi crochet pattern duo. Fun character design.",
+  originalPrice: 19.99,
+  salePrice: 6.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/minion-bob-bear-tim?wanted=true"
+},
+{
+  id: 105,
+  title: "Mummy Market Minis",
+  image: "piiiiiccc",
+  description: "Mummy market minis amigurumi crochet pattern set. Perfect for Halloween themes.",
+  originalPrice: 16.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/mummy-market-minis?wanted=true"
+},
+{
+  id: 106,
+  title: "Oddish Pokemon",
+  image: "piiiiiccc",
+  description: "Oddish Pokémon amigurumi crochet pattern. Cute plant-style character.",
+  originalPrice: 17.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/oddish-pokemon?wanted=true"
+},
+{
+  id: 107,
+  title: "Oscar the Little Bat",
+  image: "piiiiiccc",
+  description: "Oscar the Little Bat amigurumi crochet pattern. Adorable spooky design.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/oscar-the-little-bat?wanted=true"
+},
+{
+  id: 108,
+  title: "Emotional Support Pickle",
+  image: "piiiiiccc",
+  description: "Emotional support pickle amigurumi crochet pattern. Fun and quirky PDF.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/emotional-support-pickle?wanted=true"
+},
+{
+  id: 109,
+  title: "Seal Big",
+  image: "piiiiiccc",
+  description: "Big seal amigurumi crochet pattern. Soft, cuddly ocean-themed design.",
+  originalPrice: 15.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/seal-big?wanted=true"
+},
+{
+  id: 110,
+  title: "Shrimp",
+  image: "piiiiiccc",
+  description: "Shrimp amigurumi crochet pattern. Unique and playful sea creature design.",
+  originalPrice: 13.99,
+  salePrice: 3.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/shrimp?wanted=true"
+},
+{
+  id: 111,
+  title: "Snuggle Bunny",
+  image: "piiiiiccc",
+  description: "Snuggle bunny amigurumi crochet pattern. Soft, cuddly, and perfect for gifts.",
+  originalPrice: 15.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/snuggle-bunny?wanted=true"
+},
+{
+  id: 112,
+  title: "South Park Stan",
+  image: "piiiiiccc",
+  description: "South Park Stan amigurumi crochet pattern. Fun cartoon-inspired PDF design.",
+  originalPrice: 17.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/south-park-stan?wanted=true"
+},
+{
+  id: 113,
+  title: "Squirtle Pokemon",
+  image: "piiiiiccc",
+  description: "Squirtle Pokémon amigurumi crochet pattern. Popular water-type character.",
+  originalPrice: 18.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/squirtle-pokemon?wanted=true"
+},
+{
+  id: 114,
+  title: "Steve Minecraft",
+  image: "piiiiiccc",
+  description: "Steve from Minecraft amigurumi crochet pattern. Pixel-style character design.",
+  originalPrice: 18.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/steve-minecraft?wanted=true"
+},
+{
+  id: 115,
+  title: "Stitch with Ange",
+  image: "piiiiiccc",
+  description: "Stitch with Ange amigurumi crochet pattern. Cute duo character design.",
+  originalPrice: 19.99,
+  salePrice: 6.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/stitch-with-ange?wanted=true"
+},
+{
+  id: 116,
+  title: "Themike",
+  image: "piiiiiccc",
+  description: "Themike amigurumi crochet pattern. Character-style PDF crochet design.",
+  originalPrice: 16.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/themike?wanted=true"
+},
+{
+  id: 117,
+  title: "Bulbasaur Pokemon",
+  image: "piiiiiccc",
+  description: "Bulbasaur Pokémon amigurumi crochet pattern. Cute dinosaur-style character.",
+  originalPrice: 18.99,
+  salePrice: 5.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/bulbasaur?wanted=true"
+},
+{
+  id: 118,
+  title: "Up Mushroom Super Mario World",
+  image: "piiiiiccc",
+  description: "1-Up mushroom from Super Mario World amigurumi crochet pattern.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/up-mushroom-super-mario?wanted=true"
+},
+{
+  id: 119,
+  title: "Valentines Day Bouquet",
+  image: "piiiiiccc",
+  description: "Valentine’s Day bouquet amigurumi crochet pattern. Romantic gift idea.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/valentines-day-bouquet?wanted=true"
+},
+{
+  id: 120,
+  title: "Valentine Tree",
+  image: "piiiiiccc",
+  description: "Valentine tree amigurumi crochet pattern. Decorative love-themed design.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/valentine-tree?wanted=true"
+},
+{
+  id: 121,
+  title: "Woobles Penguin",
+  image: "piiiiiccc",
+  description: "Woobles-style penguin amigurumi crochet pattern. Cute and beginner-friendly.",
+  originalPrice: 13.99,
+  salePrice: 3.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/woobles-penguin?wanted=true"
+},
+{
+  id: 122,
+  title: "Woolly Doodly",
+  image: "piiiiiccc",
+  description: "Woolly doodly amigurumi crochet pattern. Fun and whimsical design.",
+  originalPrice: 13.99,
+  salePrice: 3.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/woolly-doodly?wanted=true"
+},
+{
+  id: 123,
+  title: "Wootteo Super Tuna",
+  image: "piiiiiccc",
+  description: "Wootteo Super Tuna amigurumi crochet pattern. Funny and creative character.",
+  originalPrice: 14.99,
+  salePrice: 4.99,
+  purchaseLink: "https://maken8n.gumroad.com/l/wootteo-super-tuna?wanted=true"
 }
+
+
 ];
-
-
-
