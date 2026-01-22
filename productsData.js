@@ -812,7 +812,7 @@ const products = [
 {
   id: 102,
   title: "Mel the Snowman",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/a22sraoccztoovhd10qb9ezr81m8",
   description: "Mel the Snowman amigurumi crochet pattern. Cozy winter-themed PDF design.",
   originalPrice: 14.99,
   salePrice: 4.99,
@@ -821,7 +821,7 @@ const products = [
 {
   id: 103,
   title: "Mini Turtle",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/soevl3q6f3u3ckyo25ibptkwwwqn",
   description: "Mini turtle amigurumi crochet pattern. Small, cute, and beginner-friendly.",
   originalPrice: 12.99,
   salePrice: 3.99,
@@ -830,7 +830,7 @@ const products = [
 {
   id: 104,
   title: "Minion Bob and Bear Tim",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/8cjwcx0vwiwkwmokx447uwf6m9sk",
   description: "Minion Bob and Bear Tim amigurumi crochet pattern duo. Fun character design.",
   originalPrice: 19.99,
   salePrice: 6.99,
@@ -839,7 +839,7 @@ const products = [
 {
   id: 105,
   title: "Mummy Market Minis",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/diq3qvai8ikbbv5oa12fvchwjgfe",
   description: "Mummy market minis amigurumi crochet pattern set. Perfect for Halloween themes.",
   originalPrice: 16.99,
   salePrice: 4.99,
@@ -848,7 +848,7 @@ const products = [
 {
   id: 106,
   title: "Oddish Pokemon",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/lq29qjlx1flii99x5rrkhiig7sws",
   description: "Oddish Pokémon amigurumi crochet pattern. Cute plant-style character.",
   originalPrice: 17.99,
   salePrice: 5.99,
@@ -857,7 +857,7 @@ const products = [
 {
   id: 107,
   title: "Oscar the Little Bat",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/sp2jucsvzktlwolexv51h8mbdmw9",
   description: "Oscar the Little Bat amigurumi crochet pattern. Adorable spooky design.",
   originalPrice: 14.99,
   salePrice: 4.99,
@@ -866,7 +866,7 @@ const products = [
 {
   id: 108,
   title: "Emotional Support Pickle",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/0f7ynnzlldgdvz39by8dsgnbngvr",
   description: "Emotional support pickle amigurumi crochet pattern. Fun and quirky PDF.",
   originalPrice: 14.99,
   salePrice: 4.99,
@@ -875,7 +875,7 @@ const products = [
 {
   id: 109,
   title: "Seal Big",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/mnx91tu7fxfqqqrq9yvqzeb88ryq",
   description: "Big seal amigurumi crochet pattern. Soft, cuddly ocean-themed design.",
   originalPrice: 15.99,
   salePrice: 4.99,
@@ -884,7 +884,7 @@ const products = [
 {
   id: 110,
   title: "Shrimp",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/94bgpgafc5kddk1l7ea0rortifmb",
   description: "Shrimp amigurumi crochet pattern. Unique and playful sea creature design.",
   originalPrice: 13.99,
   salePrice: 3.99,
@@ -893,7 +893,7 @@ const products = [
 {
   id: 111,
   title: "Snuggle Bunny",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/zp5xd641qw9qx3m10r8tnuzpx5gy",
   description: "Snuggle bunny amigurumi crochet pattern. Soft, cuddly, and perfect for gifts.",
   originalPrice: 15.99,
   salePrice: 4.99,
@@ -1010,3 +1010,4 @@ const products = [
 
 
 ];
+
