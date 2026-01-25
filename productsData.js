@@ -902,7 +902,7 @@ const products = [
 {
   id: 112,
   title: "South Park Stan",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/3luvrm2hckrsddhadh56xyp6abf9",
   description: "South Park Stan amigurumi crochet pattern. Fun cartoon-inspired PDF design.",
   originalPrice: 17.99,
   salePrice: 5.99,
@@ -911,7 +911,7 @@ const products = [
 {
   id: 113,
   title: "Squirtle Pokemon",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/espit1ul8dmdhqiwp7q42ophbhv3",
   description: "Squirtle Pokémon amigurumi crochet pattern. Popular water-type character.",
   originalPrice: 18.99,
   salePrice: 5.99,
@@ -920,7 +920,7 @@ const products = [
 {
   id: 114,
   title: "Steve Minecraft",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/wkv0urt8050p9e4eo05hgyta95fx",
   description: "Steve from Minecraft amigurumi crochet pattern. Pixel-style character design.",
   originalPrice: 18.99,
   salePrice: 5.99,
@@ -929,7 +929,7 @@ const products = [
 {
   id: 115,
   title: "Stitch with Ange",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/30x3hqegiwgvla6trkq6sb7i0v6w",
   description: "Stitch with Ange amigurumi crochet pattern. Cute duo character design.",
   originalPrice: 19.99,
   salePrice: 6.99,
@@ -938,7 +938,7 @@ const products = [
 {
   id: 116,
   title: "Themike",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/1633dcqozldclbrqnlj1k2dk5d2i",
   description: "Themike amigurumi crochet pattern. Character-style PDF crochet design.",
   originalPrice: 16.99,
   salePrice: 4.99,
@@ -947,7 +947,7 @@ const products = [
 {
   id: 117,
   title: "Bulbasaur Pokemon",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/x3yq4r5vsad2tbjzwwmxklmjyb12",
   description: "Bulbasaur Pokémon amigurumi crochet pattern. Cute dinosaur-style character.",
   originalPrice: 18.99,
   salePrice: 5.99,
@@ -956,7 +956,7 @@ const products = [
 {
   id: 118,
   title: "Up Mushroom Super Mario World",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/azfcpknrvm0g661de8cklgu8y7mn",
   description: "1-Up mushroom from Super Mario World amigurumi crochet pattern.",
   originalPrice: 14.99,
   salePrice: 4.99,
@@ -965,7 +965,7 @@ const products = [
 {
   id: 119,
   title: "Valentines Day Bouquet",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/llhp9khlf8j23uzdcncxg9fqjj0g",
   description: "Valentine’s Day bouquet amigurumi crochet pattern. Romantic gift idea.",
   originalPrice: 14.99,
   salePrice: 4.99,
@@ -974,7 +974,7 @@ const products = [
 {
   id: 120,
   title: "Valentine Tree",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/54zge9srawmizgg3s9k33szx9g0g",
   description: "Valentine tree amigurumi crochet pattern. Decorative love-themed design.",
   originalPrice: 14.99,
   salePrice: 4.99,
@@ -983,7 +983,7 @@ const products = [
 {
   id: 121,
   title: "Woobles Penguin",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/jmn6v2mgmkb2z8nywk9snirjmfbq",
   description: "Woobles-style penguin amigurumi crochet pattern. Cute and beginner-friendly.",
   originalPrice: 13.99,
   salePrice: 3.99,
@@ -1010,4 +1010,5 @@ const products = [
 
 
 ];
+
 
