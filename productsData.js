@@ -992,7 +992,7 @@ const products = [
 {
   id: 122,
   title: "Woolly Doodly",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/xn5iqzxtwrm4ntr707m2hsffw3ni",
   description: "Woolly doodly amigurumi crochet pattern. Fun and whimsical design.",
   originalPrice: 13.99,
   salePrice: 3.99,
@@ -1001,7 +1001,7 @@ const products = [
 {
   id: 123,
   title: "Wootteo Super Tuna",
-  image: "piiiiiccc",
+  image: "https://public-files.gumroad.com/0knnt55jzqpezswg650iaspfm8n3",
   description: "Wootteo Super Tuna amigurumi crochet pattern. Funny and creative character.",
   originalPrice: 14.99,
   salePrice: 4.99,
@@ -1010,5 +1010,6 @@ const products = [
 
 
 ];
+
 
 
